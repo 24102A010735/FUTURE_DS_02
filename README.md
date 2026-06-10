@@ -1,6 +1,6 @@
-# FUTURE_DS_02 – Customer Retention & Churn Analysis
+# 📊 Customer Retention & Churn Analysis Dashboard
 
-This project was completed as part of the **Data Science & Analytics Internship** at **Future Interns** under **Task 2 – Customer Retention & Churn Analysis**.
+This project is a **self-driven data analytics and business intelligence project** created to strengthen my **Power BI**, **customer analytics**, and **data visualization** skills using a real-world public dataset.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The objective was to transform raw customer subscription data into an interactiv
 
 ---
 
-## Task Objective
+## Project Objective
 
 Analyze customer subscription data to identify:
 
@@ -37,7 +37,7 @@ Analyze customer subscription data to identify:
 **Telco Customer Churn Dataset**  
 Source: Kaggle
 
-Dataset Link:  
+**Dataset Link:**  
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ---
@@ -46,7 +46,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 This dashboard provides a comprehensive analysis of customer retention and churn by examining customer demographics, contracts, internet services, payment methods, and tenure patterns.
 
-The dashboard is designed to help product managers, startup founders, and business stakeholders make data-driven decisions to improve customer retention.
+The dashboard is designed to help product managers, startup founders, business analysts, and decision-makers make data-driven decisions to improve customer retention.
 
 ### Dashboard Features
 
@@ -172,7 +172,7 @@ Based on the analysis, the following recommendations are suggested:
 
 ## Files Included
 
-- `FUTURE_DS_02.pbix` → Power BI Dashboard File
+- `Customer_Retention_Churn_Analysis.pbix` → Power BI Dashboard File
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` → Source Dataset
 - `Screenshot 2026-06-06 212749.png` → Contract Dashboard
 - `Screenshot 2026-06-06 212911.png` → Internet Dashboard
@@ -185,7 +185,7 @@ Based on the analysis, the following recommendations are suggested:
 
 ## Deliverable
 
-A client-ready interactive Power BI dashboard presenting customer churn patterns, retention drivers, customer lifetime trends, and business recommendations to support strategic decision-making and improve long-term customer retention.
+An interactive Power BI dashboard presenting customer churn patterns, retention drivers, customer lifetime trends, and business recommendations to support strategic decision-making and improve long-term customer retention.
 
 ---
 
@@ -208,4 +208,4 @@ A client-ready interactive Power BI dashboard presenting customer churn patterns
 
 ## Outcome
 
-This project demonstrates the practical use of Power BI for analyzing customer retention and subscription behavior by transforming raw customer data into meaningful business insights. The dashboard helps identify high-risk customer segments, understand churn drivers, and recommend actionable strategies that support data-driven business growth and long-term customer retention.
+This project demonstrates the practical application of Power BI for analyzing customer retention and subscription behavior by transforming raw customer data into meaningful business insights. Built as part of my personal learning journey using a real-world public dataset, the dashboard helps identify high-risk customer segments, understand churn drivers, and provide actionable strategies that support data-driven business growth and long-term customer retention.
